@@ -1,4 +1,4 @@
-## Hey you!
+## Hi there!
 
 - 🔭 I’m currently working on upgrade myself.
 - 🌱 I’m currently learning JavaScript and FrontEnd.
